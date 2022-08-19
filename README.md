@@ -14,4 +14,7 @@ Notebooks: Each stage was conducted in seperate notebooks.
 * Multivariate models
 
 Media: Includes media which are used in report.
+
 Report: Pdf of project report. 
+
+Presentation: pdf and pptx format of presentation
