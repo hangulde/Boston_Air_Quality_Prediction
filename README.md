@@ -6,6 +6,7 @@ Air pollution is contamination of the environment by any physical, chemical, or 
 File structure
 --------------
 Data: Includes both raw and clean datasets. 
+
 Notebooks: Each stage was conducted in seperate notebooks.
 * Data wrangling
 * Exploratory data analysis
